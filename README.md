@@ -8,7 +8,7 @@
 7 ？ ？
 //以下为翻译的代码，不知道对不对
 
-/*int main()
+int main()
 {
 	int inp;
   
@@ -39,12 +39,11 @@
 	}
 
 	return 0;
-}*/
+}
 
 
 //以下为我自己编写的代码：
 
-/*
 unsigned short number[101][101]{0};
 int main()
 {
@@ -65,7 +64,7 @@ int main()
 
 	system("pause");
 	return 0;
-}*/
+}
 
 
 
